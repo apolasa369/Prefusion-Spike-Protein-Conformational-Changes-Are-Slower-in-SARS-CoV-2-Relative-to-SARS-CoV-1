@@ -1,5 +1,5 @@
 #!/bin/bash
-#This script counts the amount of water molecules within 5 Angstrom of each spike protein component specified in the macro files.
+#This script counts the amount of water molecules within 5 Angstrom of each spike protein receptor binding component specified in the macro files system_ACE2.tcl.
 #The macros for each component for each system are uploaded to the macros folder.
 #This is a sample script for a 5x5b system that you can easily modify and run for different systems/Proteins.
 
